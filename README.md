@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bandileceleste
-- 👀 I’m interested in computer programming, computer design and coding
+- 👋 Hi, I’m @bandileceleste, an aspiring Software Engineer
+- 👀 I’m interested in software development and AI
 - 🌱 I’m currently enrolled as a BSc Computer Science and Informatics student
 - 💞️ I’m looking to collaborate on any programming or coding projects that will improve my skills and challenge me
 - 📫 How to reach me --> Email: celestendlovu21@gmail.com
